@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+high_score.json
+high_score.tmp
